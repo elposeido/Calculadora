@@ -36,9 +36,9 @@ public class Calculadora {
         return result;
     }
 
-    public int divide() {
-        int result = num1 / num2;
-        return result;
+    public void hola() {
+       
     }
+  
 
 }
