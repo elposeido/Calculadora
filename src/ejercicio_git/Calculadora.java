@@ -42,5 +42,8 @@ public class Calculadora {
   public void adios(){
       
   }
+  private void rama1(){
+      
+  }
 
 }
