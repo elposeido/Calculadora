@@ -39,6 +39,8 @@ public class Calculadora {
     public void hola() {
        
     }
-  
+  public void adios(){
+      
+  }
 
 }
