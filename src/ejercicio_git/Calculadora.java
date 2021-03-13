@@ -42,5 +42,7 @@ public class Calculadora {
   public void adios(){
       
   }
+public void cmd (){
+}
 
 }
