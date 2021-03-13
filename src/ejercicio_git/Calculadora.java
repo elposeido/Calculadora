@@ -39,10 +39,9 @@ public class Calculadora {
     public void hola() {
        
     }
-  public void adios(){
-      
+  public String adios(){
+      return "Cambio en github"
   }
-public void cmd (){
-}
+
 
 }
