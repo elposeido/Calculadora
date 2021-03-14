@@ -43,8 +43,11 @@ public class Calculadora {
       return "Cambio en github"
   }
 
+<<<<<<< HEAD
 
 public  void rama2(){
+=======
+>>>>>>> 0e9161caf8d73b0aee708e8cb99ef160578f08da
 }
 
 }
