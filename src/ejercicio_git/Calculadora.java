@@ -44,8 +44,7 @@ public class Calculadora {
   }
 
 
-public  void rama2(){
+public  void rama2(int num){
 }
-
 }
 
